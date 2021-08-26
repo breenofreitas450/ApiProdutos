@@ -1,0 +1,16 @@
+{
+  "name": "apiprodutos",
+  "version": "1.0.0",
+  "description": "Api de Produtos com controle de acessos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Breno Moraes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.3.6",
+    "express": "^4.17.1"
+  }
+}
